@@ -1,3 +1,6 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/86892fc7-8753-4fbf-8c7e-ddfc79a1db2f" />
+
+
 # Tahlil A. Warsame, MSc · CPHQ · CHDA · SSBB  
 **Cardiovascular Clinical Informatics & Quality Analytics (MEA-focused)**
 
