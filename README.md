@@ -55,7 +55,6 @@ graph LR
 
 ### 📊 Technical Skills
 - ✅ SQL • Power BI • Tableau
-- ✅ R programming
 - ✅ Quality frameworks (CPHQ, CHDA, SSBB)
 - ✅ Data pipeline architecture
 - ✅ Registry reporting & analytics
@@ -151,7 +150,6 @@ gantt
 ### Languages & Tools
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
@@ -200,77 +198,6 @@ gantt
     ├── Regional considerations
     ├── Case studies
     └── 📋 Implementation guides
-```
-
----
-
-## 🎯 Career Goals
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 📅 6-12 Months
-- ✅ Complete Epic Cupid fundamentals
-- ✅ Publish 50+ infographics
-- ✅ Network with Epic community
-- ✅ Pursue CPHIMS certification
-
-</td>
-<td width="33%" valign="top">
-
-### 📅 1-2 Years
-- 🎯 Epic Cupid Proficiency
-- 🎯 Secure consultant role
-- 🎯 Lead first MEA implementation
-- 🎯 Contribute to UserWeb
-
-</td>
-<td width="33%" valign="top">
-
-### 📅 3-5 Years
-- 🚀 MEA Subject Matter Expert
-- 🚀 Multi-site deployments
-- 🚀 Mentor aspiring consultants
-- 🚀 Thought leadership
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 Why Work With Me?
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Unique Value))
-    Clinical Expertise
-      22 years cardiology
-      Hands-on workflow knowledge
-      Patient-centric approach
-    Quality Frameworks
-      CPHQ certified
-      CHDA certified
-      Six Sigma Black Belt
-    Data Analytics
-      SQL proficiency
-      BI tools mastery
-      Registry reporting
-    Epic Cupid
-      Self-directed learning
-      Committed to excellence
-      MEA implementation focus
-    Regional Advantage
-      MEA healthcare landscape
-      Cultural competency
-      Local network
-```
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
