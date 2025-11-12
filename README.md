@@ -9,16 +9,6 @@ I design and implement end-to-end cardiovascular imaging workflows—orders, DIC
 
 **Focus areas**: cardiovascular workflow optimization · NCDR Quality Reporting & Registry Integration · capacity & access analytics · MEA Regional Implementations
 
-
-----
-## 📫 Let's Connect
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twarsame)
