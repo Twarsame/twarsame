@@ -1,54 +1,63 @@
-<h1 align="center">Hi 👋, I'm Tahlil</h1>
-<h3 align="center"> Clinical Data and Quality Improvement Specialist | Data Viz Enthusiast |</h3>
+# Tahlil A. Warsame, MSc · CPHQ · CHDA · SSBB  
+**Cardiovascular Clinical Informatics & Quality Analytics (MEA-focused)**
 
-Transforming healthcare chaos into quality gold with a dash of SQL and Tableau magic and a sprinkle of R prowess. CPHQ®, CPPS®, CHDA®, LSSBB® certified, I'm on a mission to enhance patient outcomes and operational efficiency through data-driven insights. Join me in crafting visual stories that save lives!
-- 👀 I’m interested in exploring projects that involve:
+I design and implement end-to-end cardiovascular imaging workflows—orders, DICOM MWL/MPPS, PACS/VNA, and reporting—grounded in 22 years across echo and non-invasive labs. My work connects **quality frameworks** (CPHQ, CHDA, SSBB) with **data pipelines** (SQL, Power BI/Tableau, R) to deliver measurable improvements in report turnaround, data completeness, and registry readiness (NCDR).  
+**Now building Epic Cupid expertise** through open repositories that simulate Cupid-adjacent workflows, registry extracts, and quality dashboards using de-identified data.  
 
-- 📫Enhancing patient outcomes and operational efficiency
-- 📫Creating interactive dashboards for real-time monitoring of clinical performance metrics
-- 📫Designing and implementing quality improvement initiatives based on data-driven insights
+**Focus areas**: Echo workflow optimization · NCDR/quality reporting · capacity & access analytics · MEA implementations
 
+---
 
+## Epic Cupid: Where I Add Immediate Value
+- Translate real-world echo and cardiology workflows into Cupid build and operational decisions  
+- Align registry, accreditation, and quality metrics (e.g., NCDR) with source data, documentation, and reporting  
+- Bridge clinicians and IT by validating data lineage from order to final report and dashboard
 
-- 🌱 I’m currently learning **Tableau and SQL**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/twarsame](https://www.kaggle.com/twarsame)
+## Highlights & Example Outcomes (from the included projects)
+- End-to-end synthetic **TTE order → image → report** pipeline demonstrating MWL/MPPS conformance and traceability  
+- Reproducible **quality dashboards** for turnaround time (TAT), EF reporting %, and documentation completeness  
+- **Registry extract kit** with a clear data dictionary and SQL transforms to NCDR-style structures  
+- **Waiting list analytics** notebooks with control charts, seasonality checks, and capacity modeling
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/tahlilwarsame/](https://www.linkedin.com/in/tahlilwarsame/)
+> All datasets in this profile are synthetic or de-identified and intended for educational, portfolio, and demonstration purposes only.
 
-- 💬 Ask me about **clinical quality improvement**
+---
 
-- 📫 How to reach me **tahlilw@gmail.com**
+## Featured Repositories (suggested pins)
+- **epic-cupid-workflow-sim** — Synthetic TTE order → image → report pipeline with MWL/MPPS and PACS handoff + sequence diagram  
+  _Run locally with Docker; includes test seeds and SOPs_
+- **cardio-quality-dashboard-pbi** — Cardiovascular KPIs in Power BI or Tableau (TAT, EF reporting %, completeness) with sample dataset  
+  _Includes KPI glossary, DAX/Calc fields, and screenshots_
+- **ncdr-registry-sql-kit** — SQL transforms + data dictionary for NCDR-style extracts using de-identified data  
+  _Includes validation queries and data completeness checks_
+- **echo-waitlist-analytics-r** — R notebooks for control charts, forecast, and capacity modeling  
+  _Reproducible scripts with project-level `renv`_
+- **dicom-mwl-mpps-demo** — Minimal DICOM MWL/MPPS mock server + Docker compose  
+  _Step-by-step runbook and conformance notes_
+- **quality-rca-fmea-templates** — CAPA/RCA/FMEA templates with worked examples and visual outputs  
+  _Practical quality toolkit aligned to healthcare scenarios_
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tahlilwarsame/](https://www.linkedin.com/in/tahlilwarsame/)
+> Replace each bullet above with actual repository links after you publish. Example: `[epic-cupid-workflow-sim](https://github.com/<user>/epic-cupid-workflow-sim)`.
 
--   
-- ⚡ Fun fact: ... Did you know that the average human heart beats about 115,000 times per day? That's over 42 million times in a year! This incredible organ pumps about 2,000 gallons of blood through your body every day, showcasing the importance of maintaining heart health through quality healthcare practices.
+---
 
+## Skills → Deliverables Map
+| Capability | What I deliver | Proof (repository section) |
+|---|---|---|
+| DICOM MWL/MPPS, PACS/VNA | Order–image–report lineage, MWL/MPPS handshake, PACS storage and retrieval flows | `epic-cupid-workflow-sim` · `dicom-mwl-mpps-demo` |
+| Epic Cupid (adjacent) | Cupid-like workflows using synthetic data, data requirements for reporting and registries | `epic-cupid-workflow-sim` (README: “Cupid-adjacent build notes”) |
+| Registry readiness (NCDR) | Source-to-target mappings, SQL transforms, data dictionary, validation queries | `ncdr-registry-sql-kit` |
+| Quality analytics & dashboards | KPI definitions, PBI/Tableau models, screenshots, reproducible refresh | `cardio-quality-dashboard-pbi` |
+| Access & capacity analytics | Control charts, seasonality, capacity scenarios, recommendations | `echo-waitlist-analytics-r` |
+| Quality methods (CPHQ/SSBB) | RCA/FMEA templates, CAPA tracking, measurable outcomes | `quality-rca-fmea-templates` |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=twarsame&label=Profile%20views&color=0e75b6&style=flat" alt="twarsame" /> </p>
+## 📫 Let's Connect
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twarsame" alt="twarsame" /></a> </p>
+- 💼 **LinkedIn**: [linkedin.com/in/tahlilwarsame](https://www.linkedin.com/in/tahlilwarsame/)
+- 📧 **Email**: tahlilw@gmail.com
+- 📊 **Portfolio**: [kaggle.com/twarsame](https://www.kaggle.com/twarsame)
 
+💬 **Ask me about**: Cardiovascular workflow optimization, clinical quality improvement, healthcare data analytics, or my Epic Cupid journey
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tahlilwarsame/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tahlilwarsame/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/twarsame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/twarsame" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@tahlilwarsame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tahlilwarsame" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twarsame&show_icons=true&locale=en" alt="twarsame" /></p>
-
-
-
-<!---
-Twarsame/Twarsame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
