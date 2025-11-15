@@ -9,6 +9,34 @@
 
 **🎯 Aspiring Epic Cupid Consultant | MEA Region**
 
+## 🛠️ Technical Stack
+
+<div align="center">
+
+### Languages & Tools
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Healthcare IT
+
+![Epic](https://img.shields.io/badge/Epic_Cupid-Learning-00A1E0?style=for-the-badge)
+![HL7](https://img.shields.io/badge/HL7-Integration-FF6B6B?style=for-the-badge)
+![DICOM](https://img.shields.io/badge/DICOM-Standard-4CAF50?style=for-the-badge)
+
+### Certifications
+
+![CPHQ](https://img.shields.io/badge/CPHQ-Certified-gold?style=for-the-badge)
+![CHDA](https://img.shields.io/badge/CHDA-Certified-gold?style=for-the-badge)
+![SSBB](https://img.shields.io/badge/Six_Sigma-Black_Belt-gold?style=for-the-badge)
+
+</div>
+
+
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tahlilwarsame-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahlilwarsame/)
 [![Email](https://img.shields.io/badge/Email-tahlilw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahlilw@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-twarsame-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/twarsame)
@@ -64,82 +92,7 @@ graph LR
 </tr>
 </table>
 
----
 
-## 🎯 What I Do
-
-```yaml
-Cardiovascular Workflow Design:
-  - Order management & routing
-  - DICOM worklist orchestration
-  - PACS/VNA integration
-  - Clinical documentation optimization
-  
-Quality Analytics:
-  - Report turnaround metrics
-  - Data completeness dashboards
-  - NCDR registry readiness
-  - Capacity & access analytics
-  
-Epic Cupid Development:
-  - Workflow simulation repositories
-  - Registry extract prototypes
-  - Quality dashboards (de-identified data)
-  - MEA implementation planning
-```
-
----
-
-## 📈 Impact Metrics
-
-<div align="center">
-
-| 🎯 Focus Area | 📊 Measurable Outcome |
-|---------------|----------------------|
-| **Report Turnaround** | Reduced by data-driven workflow redesign |
-| **Data Completeness** | Improved through automated quality checks |
-| **Registry Readiness** | Enhanced NCDR submission accuracy |
-| **Workflow Efficiency** | Optimized order-to-report cycle |
-
-</div>
-
----
-
-## 🧩 Epic Cupid Learning Journey
-
-```mermaid
-gantt
-    title My Epic Cupid Roadmap
-    dateFormat  YYYY-MM-DD
-    section Fundamentals
-    Core concepts           :2025-11-10, 60d
-    Workflow basics         :2025-11-20, 45d
-    section Implementation
-    Order entry & docs      :2026-01-01, 90d
-    Quality reporting       :2026-02-01, 90d
-    section Advanced
-    NCDR integration        :2026-04-01, 60d
-    MEA customization       :2026-05-01, 90d
-    section Certification
-    Proficiency exam prep   :2026-07-01, 120d
-```
-
----
-
-## 🌍 MEA Healthcare Focus
-
-<div align="center">
-
-### Why MEA Matters
-
-| 🔑 Advantage | 💡 Value Proposition |
-|-------------|---------------------|
-| **Regional Expertise** | Deep understanding of MEA healthcare landscape |
-| **Cultural Competency** | Multilingual capabilities & local network |
-| **Clinical + IT** | Rare combination in Epic consulting market |
-| **Quality Driven** | Certified methodologies (CPHQ, CHDA, SSBB) |
-
-</div>
 
 ---
 
@@ -169,48 +122,7 @@ gantt
 
 ---
 
-## 📚 Repository Contents
 
-```
-📁 Healthcare-IT-Cardiology-Informatics/
-│
-├── 📖 01-Fundamentals/
-│   ├── Epic Cupid overview
-│   ├── Cardiology workflows
-│   └── 🎨 Infographics
-│
-├── ⚙️ 02-Core-Functionality/
-│   ├── Order entry systems
-│   ├── Clinical documentation
-│   └── 🎨 Workflow diagrams
-│
-├── 🚀 03-Advanced-Workflows/
-│   ├── NCDR integration
-│   ├── Quality reporting
-│   └── 📊 Registry dashboards
-│
-├── 🔗 04-Integration/
-│   ├── HL7 interfaces
-│   ├── DICOM workflows
-│   └── 🏗️ Architecture diagrams
-│
-└── 🌍 05-MEA-Implementations/
-    ├── Regional considerations
-    ├── Case studies
-    └── 📋 Implementation guides
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### 💬 Ask Me About:
-
-🫀 **Cardiovascular Workflow Optimization**  
-📊 **Clinical Quality Improvement Methodologies**  
-📈 **Healthcare Data Analytics & Visualization**  
-🎓 **Epic Cupid Self-Learning Journey**  
-🌍 **MEA Healthcare IT Landscape**
 
 ### 📫 Reach Out
 
