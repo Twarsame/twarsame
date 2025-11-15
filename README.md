@@ -2,6 +2,13 @@
 
 # Hi, I'm Tahlil 👋  
 
+[![MSc](https://img.shields.io/badge/MSc-darkblue?style=for-the-badge&logo=academic-cap)](https://www.umgc.edu/)
+[![CPHQ](https://img.shields.io/badge/CPHQ-green?style=for-the-badge&logo=medical-cross)](https://www.nahq.org/certify/cphq)
+[![CHDA](https://img.shields.io/badge/CHDA-blue?style=for-the-badge&logo=clipboard-check)](https://www.ahima.org/certification/chda)
+[![LSSBB](https://img.shields.io/badge/LSSBB-black?style=for-the-badge&logo=chart-line)](https://www.sixsigmaglobalinstitute.com/)
+[![RDCS](https://img.shields.io/badge/RDCS-purple?style=for-the-badge&logo=heart-pulse)](https://www.ardms.org/)
+[![FASE](https://img.shields.io/badge/FASE-gold?style=for-the-badge&logo=stethoscope)](https://www.asecho.org/)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Last%20Updated-November%202025-brightgreen" alt="last updated" />
@@ -22,19 +29,6 @@ Deep Clinical Operations – Hands-on leadership across cardiovascular imaging a
 Quality & Process Improvement – Expertise in defining quality metrics, reducing variation, and streamlining processes
 Data Analytics & Visualization – Skilled at turning complex clinical data into clear, actionable dashboards and insights
 Regulatory Fluency – Strong working knowledge of JCI, CBAHI, CMS, and related accreditation and compliance requirements
-
----
-
-## 🚀 Projects & Portfolio
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **[CV Service Line Performance Dashboard](https://github.com/username/repo1)** | Interactive dashboard tracking volumes, wait times, and key quality metrics for cardiovascular services | `Tableau` `SQL` `Excel` |
-| **[Epic Cardiology Data Analysis](https://github.com/username/repo2)** | SQL scripts to extract and analyze cardiology data from Epic (Clarity) for quality reporting and operational insights | `SQL` `Epic Clarity` `Python` |
-| **[Cardiac Registry Automation](https://github.com/username/repo3)** | Automation of data validation and transformation for national cardiac registry submissions | `Python` `Pandas` `Jupyter` |
-
-**📊 Tableau Public:** [View my interactive dashboards](your-tableau-link)  
-**💻 Kaggle:** [Explore my data & analytics projects](your-kaggle-link)  
 
 ---
 
@@ -72,15 +66,16 @@ Regulatory Fluency – Strong working knowledge of JCI, CBAHI, CMS, and related 
 
 ---
 
-## 📜 Certifications & Education
+## 🚀 Projects & Portfolio
 
-| Certification / Degree | Organization | Year | Validation |
-| :--- | :--- | :--- | :--- |
-| CPHQ – Certified Professional in Healthcare Quality | NAHQ | 2022 | [Verify](link) |
-| CHDA – Certified Health Data Analyst | AHIMA | 2025 | [Verify](link) |
-| SSBB – Six Sigma Black Belt | SSGI | 2021 | [Verify](link) |
-| RDCS – Registered Diagnostic Cardiac Sonographer | ARDMS | 2003 | [Verify](link) |
-| MSc – Healthcare Management | UMGC | 2017 | [Program](link) |
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[CV Service Line Performance Dashboard](https://github.com/username/repo1)** | Interactive dashboard tracking volumes, wait times, and key quality metrics for cardiovascular services | `Tableau` `SQL` `Excel` |
+| **[Epic Cardiology Data Analysis](https://github.com/username/repo2)** | SQL scripts to extract and analyze cardiology data from Epic (Clarity) for quality reporting and operational insights | `SQL` `Epic Clarity` `Python` |
+| **[Cardiac Registry Automation](https://github.com/username/repo3)** | Automation of data validation and transformation for national cardiac registry submissions | `Python` `Pandas` `Jupyter` |
+
+**📊 Tableau Public:** [View my interactive dashboards](your-tableau-link)  
+**💻 Kaggle:** [Explore my data & analytics projects](your-kaggle-link)  
 
 ---
 
