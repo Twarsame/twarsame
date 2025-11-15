@@ -1,70 +1,99 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/86892fc7-8753-4fbf-8c7e-ddfc79a1db2f" />
 
-# Hi, I'm Tahlil 👋
+# Hi, I'm Tahlil 👋  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Last%20Updated-November%202025-brightgreen" alt="last updated" />
+  <img src="https://img.shields.io/badge/Region-MEA-blue" alt="region" />
+</p>
 
 **Cardiovascular Clinical Informatics | Healthcare Quality & Data Analytics Leader**  
-*Aspiring Epic Cupid Consultant | MEA Region*
+**Pursuing Epic Cupid Certification · Leveraging 22+ Years of Cardiovascular Clinical Practice (MEA Region)**  
 
-I transform cardiovascular care by combining **22 years of clinical expertise** with **data-driven quality improvement**. My mission is to bridge the gap between technology and patient care by designing clinical workflows that are both efficient and clinician-friendly.
+I design and optimize cardiovascular service line workflows—orders, imaging, reporting, and quality analytics. My focus is to connect frontline clinical reality with data-driven decision-making, so that technology, clinicians, and patients are all aligned around safer, faster, and more reliable care.
 
 ---
 
 ## 🎯 What I Bring to the Table
+I combine frontline cardiovascular imaging experience with data-driven quality and informatics to deliver practical, sustainable solutions:
 
-I don't just implement systems—I transform cardiovascular service lines. My unique value is a blend of:
-
-*   **Deep Clinical Operations:** Hands-on experience in cardiovascular imaging and clinical workflows.
-*   **Quality & Process Improvement:** Expertise in driving quality metrics and optimizing processes.
-*   **Data Analytics & Visualization:** Proficiency in turning complex clinical data into actionable insights.
-*   **Regulatory Fluency:** Knowledge of JCI, CBAHI, CMS, and other accreditation standards.
-
-This combination creates a bridge between technology and patient care that few can match.
+Deep Clinical Operations – Hands-on leadership across cardiovascular imaging and end-to-end clinical workflows
+Quality & Process Improvement – Expertise in defining quality metrics, reducing variation, and streamlining processes
+Data Analytics & Visualization – Skilled at turning complex clinical data into clear, actionable dashboards and insights
+Regulatory Fluency – Strong working knowledge of JCI, CBAHI, CMS, and related accreditation and compliance requirements
 
 ---
 
-## 🔥 Current Focus
+## 🚀 Projects & Portfolio
 
-*   Mastering **Epic Cupid** workflows and configuration.
-*   Building interactive **Tableau** dashboards for cardiovascular service line metrics.
-*   Advancing my **SQL** skills for complex clinical data extraction and analysis.
-*   Continuous learning in healthcare informatics and data science.
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[CV Service Line Performance Dashboard](https://github.com/username/repo1)** | Interactive dashboard tracking volumes, wait times, and key quality metrics for cardiovascular services | `Tableau` `SQL` `Excel` |
+| **[Epic Cardiology Data Analysis](https://github.com/username/repo2)** | SQL scripts to extract and analyze cardiology data from Epic (Clarity) for quality reporting and operational insights | `SQL` `Epic Clarity` `Python` |
+| **[Cardiac Registry Automation](https://github.com/username/repo3)** | Automation of data validation and transformation for national cardiac registry submissions | `Python` `Pandas` `Jupyter` |
+
+**📊 Tableau Public:** [View my interactive dashboards](your-tableau-link)  
+**💻 Kaggle:** [Explore my data & analytics projects](your-kaggle-link)  
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-| Category        | Skills & Technologies                               |
-|-----------------|-----------------------------------------------------|
-| **Data Analytics**  | SQL, Python (Pandas, NumPy)                         |
-| **Visualization**   | Tableau, Power BI, Matplotlib, Seaborn              |
-| **Healthcare IT**   | Epic, HL7, DICOM, EHR Implementation & Optimization |
-| **Quality Methods** | Lean Six Sigma (SSBB), Statistical Process Control  |
+### 📊 Data & Analytics
+
+![SQL](https://img.shields.io/badge/SQL-Expert-0e75b6?style=for-the-badge&logo=postgresql)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel)
+
+**Focus areas:** Advanced querying · data modeling · ETL/ELT · statistical analysis · data quality & validation  
+
+### 📈 Visualization
+
+![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau)
+![Power BI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi)
+
+**Focus areas:** KPI dashboards · executive reports · clinical quality metrics · service line performance  
+
+### 🏥 Healthcare IT & Interoperability
+
+![Epic Cupid](https://img.shields.io/badge/Epic_Cupid-In_Progress-6A1B9A?style=for-the-badge)
+![HL7](https://img.shields.io/badge/HL7-Familiar-90A4AE?style=for-the-badge)
+![DICOM](https://img.shields.io/badge/DICOM-Familiar-90A4AE?style=for-the-badge)
+
+**Focus areas:** EHR workflow design · CVIS/PACS integration · DICOM MWL/MPPS · structured reporting  
+
+### ❤️ CV Informatics, Quality & Improvement
+
+![Six Sigma](https://img.shields.io/badge/Six_Sigma-Black_Belt-000000?style=for-the-badge)
+![Healthcare Quality](https://img.shields.io/badge/Healthcare_Quality-CPHQ-2E7D32?style=for-the-badge)
+
+**Focus areas:** Cardiology PACS & CVIS · process improvement · RCA/FMEA · accreditation readiness  
 
 ---
 
-## 📜 Certifications & Credentials
+## 📜 Certifications & Education
 
-*   **MSc** (Relevant Field)
-*   **CPHQ** (Certified Professional in Healthcare Quality)
-*   **CHDA** (Certified Health Data Analyst)
-*   **SSBB** (Six Sigma Black Belt)
-
----
-
-## 📫 Let's Connect & Explore
-
-*   **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/yourprofile)
-*   **Data Portfolio:** [Kaggle](https://www.kaggle.com/yourprofile) | [Tableau Public](https://public.tableau.com/app/profile/yourprofile)
-*   **Email:** tahlilw@gmail.com
-
-**Ask me about:** Cardiovascular workflow optimization, clinical quality improvement, healthcare data analytics, or my journey to becoming an Epic Cupid consultant!
+| Certification / Degree | Organization | Year | Validation |
+| :--- | :--- | :--- | :--- |
+| CPHQ – Certified Professional in Healthcare Quality | NAHQ | 2022 | [Verify](link) |
+| CHDA – Certified Health Data Analyst | AHIMA | 2025 | [Verify](link) |
+| SSBB – Six Sigma Black Belt | SSGI | 2021 | [Verify](link) |
+| RDCS – Registered Diagnostic Cardiac Sonographer | ARDMS | 2003 | [Verify](link) |
+| MSc – Healthcare Management | UMGC | 2017 | [Program](link) |
 
 ---
-*README powered by a passion for better healthcare through informatics.*
 
+## 📫 Let’s Connect
 
-**Last Updated:** November 12, 2025
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](your-linkedin-url)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-View-E97627?style=for-the-badge&logo=tableau)](your-tableau-link)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle)](your-kaggle-link)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:tahlilw@gmail.com)
 
+**Ask me about:**  
+Cardiovascular workflow optimization · clinical quality improvement · healthcare data analytics · my journey toward becoming an Epic Cupid consultant  
+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
