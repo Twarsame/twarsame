@@ -1,67 +1,66 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/86892fc7-8753-4fbf-8c7e-ddfc79a1db2f" />
 
+# Hi, I'm Tahlil 👋
 
-# 👋 Hi, I'm Tahlil
+**Cardiovascular Clinical Informatics | Healthcare Quality & Data Analytics Leader**  
+*Aspiring Epic Cupid Consultant | MEA Region*
 
-## 🏥 Cardiovascular Clinical Informatics | Healthcare Quality & Data Analytics Leader
+I transform cardiovascular care by combining **22 years of clinical expertise** with **data-driven quality improvement**. My mission is to bridge the gap between technology and patient care by designing clinical workflows that are both efficient and clinician-friendly.
 
-**🎯 Aspiring Epic Cupid Consultant | MEA Region** | MSc, CPHQ, CHDA, SSBB**
+---
 
+## 🎯 What I Bring to the Table
 
+I don't just implement systems—I transform cardiovascular service lines. My unique value is a blend of:
 
-## 🚀 About Me
+*   **Deep Clinical Operations:** Hands-on experience in cardiovascular imaging and clinical workflows.
+*   **Quality & Process Improvement:** Expertise in driving quality metrics and optimizing processes.
+*   **Data Analytics & Visualization:** Proficiency in turning complex clinical data into actionable insights.
+*   **Regulatory Fluency:** Knowledge of JCI, CBAHI, CMS, and other accreditation standards.
 
-I'm transforming cardiovascular care through clinical informatics, combining **22 years of hands-on cardiovascular imaging experience** with data-driven quality improvement. Currently on an exciting journey to become an **Epic Cupid Consultant** in the Middle East and Africa region.
+This combination creates a bridge between technology and patient care that few can match.
 
-## 💼 What Makes Me Different
-
-I don't just implement systems—I **transform cardiovascular service lines** by designing workflows that clinicians actually want to use. My unique combination of:
-- ✅ Deep clinical operations knowledge
-- ✅ Quality improvement expertise
-- ✅ Data analytics proficiency
-- ✅ Regulatory fluency (JCI, CBAHI, CMS)
-
-Creates a bridge between technology and patient care that few can match.
-
+---
 
 ## 🔥 Current Focus
 
-- 📚 Mastering **Epic Cupid** workflows and configuration
-- 📊 Building **Tableau** visualizations for cardiovascular metrics
-- 💻 Advancing **SQL** skills for clinical data analytics
-- 🎓 Continuous learning in healthcare informatics
+*   Mastering **Epic Cupid** workflows and configuration.
+*   Building interactive **Tableau** dashboards for cardiovascular service line metrics.
+*   Advancing my **SQL** skills for complex clinical data extraction and analysis.
+*   Continuous learning in healthcare informatics and data science.
 
-
-
-### Certifications
-
-![CPHQ](https://img.shields.io/badge/CPHQ-Certified-gold?style=for-the-badge)
-![CHDA](https://img.shields.io/badge/CHDA-Certified-gold?style=for-the-badge)
-![SSBB](https://img.shields.io/badge/Six_Sigma-Black_Belt-gold?style=for-the-badge)
-
-</div>
-
-
-### 🛠️  Technical Skills
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Healthcare IT
-
-![Epic](https://img.shields.io/badge/Epic_Cupid-Learning-00A1E0?style=for-the-badge)
-![HL7](https://img.shields.io/badge/HL7-Integration-FF6B6B?style=for-the-badge)
-![DICOM](https://img.shields.io/badge/DICOM-Standard-4CAF50?style=for-the-badge)
 ---
 
-## 📫 Let's Connect
+## 🛠️ Technical Toolkit
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tahlilwarsame/)
-- 📧 tahlilw@gmail.com
-- 📊 [Kaggle Portfolio](https://www.kaggle.com/twarsame)
+| Category        | Skills & Technologies                               |
+|-----------------|-----------------------------------------------------|
+| **Data Analytics**  | SQL, Python (Pandas, NumPy)                         |
+| **Visualization**   | Tableau, Power BI, Matplotlib, Seaborn              |
+| **Healthcare IT**   | Epic, HL7, DICOM, EHR Implementation & Optimization |
+| **Quality Methods** | Lean Six Sigma (SSBB), Statistical Process Control  |
 
-💬 **Ask me about**: Cardiovascular workflow optimization | Clinical quality improvement | Healthcare data analytics | Epic Cupid journey
+---
+
+## 📜 Certifications & Credentials
+
+*   **MSc** (Relevant Field)
+*   **CPHQ** (Certified Professional in Healthcare Quality)
+*   **CHDA** (Certified Health Data Analyst)
+*   **SSBB** (Six Sigma Black Belt)
+
+---
+
+## 📫 Let's Connect & Explore
+
+*   **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/yourprofile)
+*   **Data Portfolio:** [Kaggle](https://www.kaggle.com/yourprofile) | [Tableau Public](https://public.tableau.com/app/profile/yourprofile)
+*   **Email:** tahlilw@gmail.com
+
+**Ask me about:** Cardiovascular workflow optimization, clinical quality improvement, healthcare data analytics, or my journey to becoming an Epic Cupid consultant!
+
+---
+*README powered by a passion for better healthcare through informatics.*
 
 
 **Last Updated:** November 12, 2025
