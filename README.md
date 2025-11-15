@@ -1,22 +1,36 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/86892fc7-8753-4fbf-8c7e-ddfc79a1db2f" />
 
 
-<div align="center">
+# 👋 Hi, I'm Tahlil
 
-# 🫀 Tahlil A. Warsame, MSc, CPHQ, CHDA, SSBB
+## 🏥 Cardiovascular Clinical Informatics | Healthcare Quality & Data Analytics Leader
 
-### Cardiovascular Clinical Informatics | Healthcare Quality & Data Analytics Leader
+**🎯 Aspiring Epic Cupid Consultant | MEA Region** | MSc, CPHQ, CHDA, SSBB**
 
-**🎯 Aspiring Epic Cupid Consultant | MEA Region**
+
 
 ## 🚀 About Me
 
-> *Transforming cardiovascular care through clinical informatics excellence — bridging 22 years of hands-on imaging expertise with data-driven quality improvement.*
-> *Transforming cardiovascular care through clinical informatics excellence* 🫀
+I'm transforming cardiovascular care through clinical informatics, combining **22 years of hands-on cardiovascular imaging experience** with data-driven quality improvement. Currently on an exciting journey to become an **Epic Cupid Consultant** in the Middle East and Africa region.
+
+## 💼 What Makes Me Different
+
+I don't just implement systems—I **transform cardiovascular service lines** by designing workflows that clinicians actually want to use. My unique combination of:
+- ✅ Deep clinical operations knowledge
+- ✅ Quality improvement expertise
+- ✅ Data analytics proficiency
+- ✅ Regulatory fluency (JCI, CBAHI, CMS)
+
+Creates a bridge between technology and patient care that few can match.
 
 
+## 🔥 Current Focus
 
-<div align="center">
+- 📚 Mastering **Epic Cupid** workflows and configuration
+- 📊 Building **Tableau** visualizations for cardiovascular metrics
+- 💻 Advancing **SQL** skills for clinical data analytics
+- 🎓 Continuous learning in healthcare informatics
+
 
 
 ### Certifications
@@ -39,24 +53,17 @@
 ![Epic](https://img.shields.io/badge/Epic_Cupid-Learning-00A1E0?style=for-the-badge)
 ![HL7](https://img.shields.io/badge/HL7-Integration-FF6B6B?style=for-the-badge)
 ![DICOM](https://img.shields.io/badge/DICOM-Standard-4CAF50?style=for-the-badge)
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tahlilwarsame/)
+- 📧 tahlilw@gmail.com
+- 📊 [Kaggle Portfolio](https://www.kaggle.com/twarsame)
+
+💬 **Ask me about**: Cardiovascular workflow optimization | Clinical quality improvement | Healthcare data analytics | Epic Cupid journey
 
 
-### 📫 Reach Out
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tahlilwarsame-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahlilwarsame/)
-[![Email](https://img.shields.io/badge/Email-tahlilw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahlilw@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-twarsame-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/twarsame)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=for-the-badge)
-
-</div>
-
-<div align="center">
-**📍 Location:** MEA Region | **💼 Status:** Open to Epic Cupid Consultant Opportunities
-
-</div>
-
-<div align="center">
 **Last Updated:** November 12, 2025
 
 
