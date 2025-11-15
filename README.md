@@ -42,10 +42,11 @@ Regulatory Fluency – Strong working knowledge of JCI, CBAHI, CMS, and related 
 
 ### 📊 Data & Analytics
 
-![SQL](https://img.shields.io/badge/SQL-Expert-0e75b6?style=for-the-badge&logo=postgresql)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel)
+[![CHDA](https://img.shields.io/badge/CHDA-Certified-blue?style=for-the-badge)](https://www.ahima.org/certification/chda)
+[![SQL](https://img.shields.io/badge/SQL-Expert-0e75b6?style=for-the-badge&logo=postgresql)](https://github.com/yourusername/sql-projects)
+[![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel)](https://github.com/yourusername/excel-analytics)
 
-**Focus areas:** Advanced querying · data modeling · ETL/ELT · statistical analysis · data quality & validation  
+**Focus areas:** Advanced querying · data modeling · ETL/ELT · statistical analysis · data quality & validation • Regulatory reporting • Excel analytics 
 
 ### 📈 Visualization
 
