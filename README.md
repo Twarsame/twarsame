@@ -81,10 +81,32 @@ Regulatory Fluency – Strong working knowledge of JCI, CBAHI, CMS, and related 
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-View-E97627?style=for-the-badge&logo=tableau)](your-tableau-link)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle)](your-kaggle-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/tahlilwarsame/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle)]([https://www.kaggle.com/twarsame])
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:tahlilw@gmail.com)
+
+
+
+# 📫 Let's Connect
+
+[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)
+
+[Tableau](https://img.shields.io/badge/Tableau_Public-View-E97627?style=for-the-badge&logo=tableau)
+
+[Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle)
+
+[Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)
+
+**LinkedIn:** https://www.linkedin.com/in/tahlilwarsame/
+
+**Kaggle:** https://www.kaggle.com/twarsame
+
+**Email:** [Tahlilw@gmail.com](mailto:Tahlilw@gmail.com)
+
+**GitHub:** https://github.com/TahlilWarsame
+
+
+
 
 **Ask me about:**  
 Cardiovascular workflow optimization · clinical quality improvement · healthcare data analytics · my journey toward becoming an Epic Cupid consultant  
